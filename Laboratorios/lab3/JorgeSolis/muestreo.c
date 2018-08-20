@@ -14,7 +14,6 @@ int main(){
 	return 0;
 }
 
-
 void generar_seno (float seno[]){
 	float f = 1000, fs = 45000;
 	register int n;
